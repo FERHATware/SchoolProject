@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SchoolProject.kz4qdfc3tk.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\Logo\\Logo.png",
+      "PackagePath": "staticwebassets\\Logo\\Logo.png"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\StudentPicture\\00ac130f-c46f-464f-ac5f-8186294ece3aschool-yearbook-portrait-child-26383045.jpg",
+      "PackagePath": "staticwebassets\\StudentPicture\\00ac130f-c46f-464f-ac5f-8186294ece3aschool-yearbook-portrait-child-26383045.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\StudentPicture\\10e4ad6e-8171-4166-8edf-fe7de6b657f1Ferhat.jpg",
+      "PackagePath": "staticwebassets\\StudentPicture\\10e4ad6e-8171-4166-8edf-fe7de6b657f1Ferhat.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\StudentPicture\\1c18fd4c-2e70-40b4-bc77-7860177569daOIP.jpg",
+      "PackagePath": "staticwebassets\\StudentPicture\\1c18fd4c-2e70-40b4-bc77-7860177569daOIP.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\StudentPicture\\279a2f31-722e-4f3f-830d-40c6b659adf2OIP.jpg",
+      "PackagePath": "staticwebassets\\StudentPicture\\279a2f31-722e-4f3f-830d-40c6b659adf2OIP.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\StudentPicture\\28a5dafd-3de0-470a-9371-ef1183ba51e3hhhh.png",
+      "PackagePath": "staticwebassets\\StudentPicture\\28a5dafd-3de0-470a-9371-ef1183ba51e3hhhh.png"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\StudentPicture\\2bde9f90-9ea9-4ba6-9253-46d695e0f55dFerhat.jpg",
+      "PackagePath": "staticwebassets\\StudentPicture\\2bde9f90-9ea9-4ba6-9253-46d695e0f55dFerhat.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\StudentPicture\\31bfb1ad-f008-483b-83df-a073d1c11ba2OIP (1).jpg",
+      "PackagePath": "staticwebassets\\StudentPicture\\31bfb1ad-f008-483b-83df-a073d1c11ba2OIP (1).jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\StudentPicture\\3591d2c0-b169-4d5b-82b9-a1d9eb3628cbOIP.jpg",
+      "PackagePath": "staticwebassets\\StudentPicture\\3591d2c0-b169-4d5b-82b9-a1d9eb3628cbOIP.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\StudentPicture\\7a4bb4b5-cf1d-4033-a530-4d0645b0a6acschool-yearbook-portrait-child-26383045.jpg",
+      "PackagePath": "staticwebassets\\StudentPicture\\7a4bb4b5-cf1d-4033-a530-4d0645b0a6acschool-yearbook-portrait-child-26383045.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\StudentPicture\\7c3d2fc7-5925-4a37-a51a-8449e80c6778OIP.jpg",
+      "PackagePath": "staticwebassets\\StudentPicture\\7c3d2fc7-5925-4a37-a51a-8449e80c6778OIP.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\StudentPicture\\951a8c6c-b644-4c4b-b385-5683c17f0d14OIP (1).jpg",
+      "PackagePath": "staticwebassets\\StudentPicture\\951a8c6c-b644-4c4b-b385-5683c17f0d14OIP (1).jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\css\\FormDesign.css",
+      "PackagePath": "staticwebassets\\css\\FormDesign.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\css\\Table.css",
+      "PackagePath": "staticwebassets\\css\\Table.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\ASP.NET Core Project\\SchoolProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SchoolProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SchoolProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SchoolProject.props",
+      "PackagePath": "build\\SchoolProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SchoolProject.props",
+      "PackagePath": "buildMultiTargeting\\SchoolProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SchoolProject.props",
+      "PackagePath": "buildTransitive\\SchoolProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

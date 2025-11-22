@@ -1,0 +1,22 @@
+﻿html {
+    font-size: 15px;
+}
+
+body {
+    margin-bottom: 60px;
+    transition: background 0.3s, color 0.3s;
+}
+
+
+.nav-link {
+    transition: 0.2s;
+}
+
+    .nav-link:hover {
+        transform: translateX(3px);
+        color: #0d6efd !important;
+    }
+
+.custom-nav {
+    backdrop-filter: blur(6px);
+}

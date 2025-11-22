@@ -1,0 +1,40 @@
+﻿
+<div class="container mt-5" style="max-width: 650px;">
+    <div class="card shadow-lg p-4">
+        <h3 class="text-center text-primary mb-4">Create New Room</h3>
+
+        <form asp-action="Creat" method="post">
+
+            <!-- Room Name -->
+            <div class="mb-3">
+                <label class="form-label">Room Name</label>
+                <input type="text"
+                       class="form-control"
+                       name="RoomName"
+                       placeholder="Enter room name"
+                       maxlength="10"
+                       required />
+            </div>
+
+            <!-- Room Capacity -->
+            <div class="mb-3">
+                <label class="form-label">Room Capacity</label>
+                <input type="number"
+                       class="form-control"
+                       name="Capisity"
+                       min="0"
+                       max="25"
+                       required />
+            </div>
+
+            <!-- Submit button -->
+            <div class="d-grid">
+                <button type="submit" class="btn btn-success btn-lg shadow-sm">
+                    Save Room
+                </button>
+            </div>
+
+        </form>
+    </div>
+</div>
+

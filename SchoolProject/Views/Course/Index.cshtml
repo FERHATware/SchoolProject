@@ -1,0 +1,43 @@
+﻿@model List<Course>
+
+<div class="container mt-4">
+
+   
+    <div class="d-flex justify-content-between mb-3">
+        <h2 class="text-primary">Courses List</h2>
+
+        <a class="btn btn-success shadow-sm px-4" asp-controller="Course" asp-action="Creat">
+            <i class="bi bi-plus-circle"></i> Add New Course
+        </a>
+    </div>
+
+    <table class="table table-bordered table-hover shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Course Name</th>
+                <th>Course Capacity</th>
+                <th>Teacher</th>
+                <th style="width: 150px;">Actions</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (Course std in Model)
+            {
+                <tr>
+                    <td>@std.CourseName</td>
+                    <td>@std.CourseCapisity</td>
+                    <td>@std.Teacher?.TeacherName</td>
+
+                    <td>
+                        <a class="btn btn-danger btn-sm" 
+                           asp-controller="Course" asp-action="Delete" asp-route-id="@std.CourseId">
+                            <i class="bi bi-trash"></i> Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
