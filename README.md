@@ -49,13 +49,13 @@ SchoolProject/
 
 <table>
   <tr>
-    <td align="center"><strong>Landing</strong><br><img src="screenshots/Home.png" width="150"></td>
-    <td align="center"><strong>Services</strong><br><img src="screenshots/Courses.png" width="150"></td>
-    <td align="center"><strong>Portfolio</strong><br><img src="screenshots/CreateNewStudent.png" width="150"></td>
-    <td align="center"><strong>About</strong><br><img src="screenshots/RegisterStudent.png" width="150"></td>
-    <td align="center"><strong>Contact</strong><br><img src="screenshots/Room.png" width="150"></td>
-    <td align="center"><strong>Contact</strong><br><img src="screenshots/Student.png" width="150"></td>
-    <td align="center"><strong>Contact</strong><br><img src="screenshots/Teacher.png" width="150"></td>
+    <td align="center"><strong>Landing</strong><br><img src="SchoolProject/screenshots/Home.png" width="150"></td>
+    <td align="center"><strong>Services</strong><br><img src="SchoolProject/screenshots/Courses.png" width="150"></td>
+    <td align="center"><strong>Portfolio</strong><br><img src="SchoolProject/screenshots/CreateNewStudent.png" width="150"></td>
+    <td align="center"><strong>About</strong><br><img src="SchoolProject/screenshots/RegisterStudent.png" width="150"></td>
+    <td align="center"><strong>Contact</strong><br><img src="SchoolProject/screenshots/Room.png" width="150"></td>
+    <td align="center"><strong>Contact</strong><br><img src="SchoolProject/screenshots/Student.png" width="150"></td>
+    <td align="center"><strong>Contact</strong><br><img src="SchoolProject/screenshots/Teacher.png" width="150"></td>
   </tr>
 </table>
 
