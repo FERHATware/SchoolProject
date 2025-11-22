@@ -54,8 +54,8 @@ SchoolProject/
     <td align="center"><strong>Portfolio</strong><br><img src="screenshots/CreateNewStudent.png" width="150"></td>
     <td align="center"><strong>About</strong><br><img src="screenshots/RegisterStudent.png" width="150"></td>
     <td align="center"><strong>Contact</strong><br><img src="screenshots/Room.png" width="150"></td>
-<td align="center"><strong>Contact</strong><br><img src="screenshots/Student.png" width="150"></td>
-<td align="center"><strong>Contact</strong><br><img src="screenshots/Teacher.png" width="150"></td>
+    <td align="center"><strong>Contact</strong><br><img src="screenshots/Student.png" width="150"></td>
+    <td align="center"><strong>Contact</strong><br><img src="screenshots/Teacher.png" width="150"></td>
   </tr>
 </table>
 
