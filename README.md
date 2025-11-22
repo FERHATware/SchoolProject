@@ -54,8 +54,8 @@ SchoolProject/
     <td align="center"><strong>Creat new Student</strong><br><img src="SchoolProject/screenshots/CreateNewStudent.png" width="150"></td>
     <td align="center"><strong>Register</strong><br><img src="SchoolProject/screenshots/RegisterStudent.png" width="150"></td>
     <td align="center"><strong>Room</strong><br><img src="SchoolProject/screenshots/Room.png" width="150"></td>
-    <td align="center"><strong>Student</strong><br><img src="SchoolProject/screenshots/Student.png" width="150"></td>
-    <td align="center"><strong>Teacher</strong><br><img src="SchoolProject/screenshots/Teacher.png" width="150"></td>
+    <td align="center"><strong>Student</strong><br><img src="SchoolProject/screenshots/Students.png" width="150"></td>
+    <td align="center"><strong>Teacher</strong><br><img src="SchoolProject/screenshots/Teachers.png" width="150"></td>
   </tr>
 </table>
 
