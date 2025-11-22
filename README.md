@@ -31,19 +31,6 @@ The project demonstrates a clean and scalable architecture for managing school-r
 
 ---
 
-## 📁 Project Structure
-
-
-SchoolProject/
-├── Controllers/
-├── Models/
-├── Views/
-├── Data/
-├── Migrations/
-├── appsettings.json
-├── Program.cs
-└── SchoolProject.csproj
-
 
 ## 📸 Screenshots
 
